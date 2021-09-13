@@ -7,4 +7,5 @@ Batch script provides simple Drag&Drop for Real-ESRGAN image upscaler.
 2. Copy drag&drop_realesrgan.bat into folder of realesrgan-ncnn-vulkan.exe
 
 **Usage**
+
 Drag & Drop images over drag&drop_realesrgan.bat
