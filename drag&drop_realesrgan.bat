@@ -1,3 +1,8 @@
+:: ::::::::::::::::::::::::::::::::::::
+:: Drag & Drop handler for Real-ESRGAN
+:: License: CC0
+:: ::::::::::::::::::::::::::::::::::::
+
 @echo off
 
 :: Set paths relative to current folder %~dp0
