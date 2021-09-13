@@ -4,7 +4,7 @@ Batch script provides simple Drag&Drop for Real-ESRGAN image upscaler.
 
 **Installing**
 1. Download portable [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) for Windows.
-2. Copy drag&drop_realesrgan.bat into folder of realesrgan-ncnn-vulkan.exe
+2. Copy drag&drop-here.bat into folder of realesrgan-ncnn-vulkan.exe
 
 **Usage**
 
