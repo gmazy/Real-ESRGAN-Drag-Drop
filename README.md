@@ -8,4 +8,4 @@ Batch script provides simple Drag&Drop for Real-ESRGAN image upscaler.
 
 **Usage**
 
-Drag & Drop images over drag&drop_realesrgan.bat
+Drag & Drop images over drag&drop-here.bat
